@@ -1,0 +1,74 @@
+#contenido{
+    height: 693px;
+    width: 1340;
+    background: rgb(9, 238, 9);
+}
+#princ{
+    height: 10%;
+    width: 100%;
+    background: rgb(155, 108, 6);
+}
+#sec{
+    height: 50%;
+    width: 100%;
+    background: rgb(46, 6, 155); 
+}
+
+#s1{
+    height: 100%;
+    width: 25%;
+    background: rgb(224, 57, 85);
+    float: left;
+    
+}
+#s2{
+    height: 100%;
+    width: 25%;
+    background: rgb(231, 102, 124);
+    float: left;
+   
+    
+}
+
+#s3{
+    height: 100%;
+    width: 50%;
+    background: rgb(27, 5, 8);
+    float: left;
+    
+    
+}
+#terc{
+    height: 40%;
+    width: 100%;
+    background: rgb(155, 6, 123); 
+}
+
+#t1{
+    margin-top: 5%;
+    margin-left: 5%;
+    height:20%;
+    width: 5%;
+    background: white;
+    float: left;
+}
+#t2{
+    margin-top: 5%;
+    margin-left: 5%;
+    height:20%;
+    width: 5%;
+    background: rgb(241, 165, 165);
+    float: left;
+}
+#t3{
+    margin-top: 5%;
+    margin-left: 5%;
+    height:20%;
+    width: 5%;
+    background: rgb(47, 185, 209);
+    float: left;
+}
+.boton{
+    margin-top: 15%;
+    margin-left: 15%;
+}
