@@ -1,0 +1,42 @@
+.contenedor3{
+    width: 100%;
+    height: auto;
+    background: rgb(42, 30, 54);
+    word-break: break-all;
+    word-wrap: break-word;
+    color: white;
+    border-radius: 20px;
+}
+
+.h1Ed{
+    margin-left: 2em;
+}
+.logoEd{
+    width: 10%;
+    height:7rem;
+    border-radius: 30px;
+    background-image: url(https://media.istockphoto.com/id/1175387759/es/vector/icono-de-la-c%C3%A1mara.jpg?s=170667a&w=0&k=20&c=WG4Kwo02cRSS77kN14ZN91Z9--4Qr7oUaWYi7wukHjA=);
+     background-size:cover;
+     background-repeat: no-repeat;
+     margin-left: 4em;
+     bottom: 1em;
+     
+}
+.descripsionEd{
+    width: 70%;
+    height: auto;
+    word-break: break-all;
+    position: relative;
+    left: 12em;
+   bottom: 7.5em;
+   
+
+}
+.imagenLEd{
+    width: 100%;
+    height:7rem;
+    border-radius: 27px;
+     background-size:cover;
+     background-repeat: no-repeat;
+     
+}

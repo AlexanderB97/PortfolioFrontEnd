@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input,Output,OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-header',
@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
 title = "My Task List";
+arrayAnime:any[] = ["alex","cele","aln"];
+
 }
+
+
