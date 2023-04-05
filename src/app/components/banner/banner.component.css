@@ -39,6 +39,10 @@
    bottom: 12em;
    margin-left: 15em;
    word-break: break-all;
+   background: rgb(65, 44, 87);
+   border-radius: 20px;
+   
+  
 }
 .ImagenPerfil1{
     width: 190px;
@@ -56,4 +60,10 @@
    background-repeat: no-repeat;
    background-position: center;
    
+}
+.h1{
+    margin-left: 1em;
+}
+.strong{
+    margin-left: 2.5em;
 }

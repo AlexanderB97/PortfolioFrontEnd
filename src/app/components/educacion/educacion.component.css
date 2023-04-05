@@ -29,6 +29,8 @@
     position: relative;
     left: 12em;
    bottom: 7.5em;
+   background: rgb(65, 44, 87);
+   border-radius: 20px;
    
 
 }
@@ -39,4 +41,7 @@
      background-size:cover;
      background-repeat: no-repeat;
      
+}
+.NED{
+    margin-left: 1em;
 }

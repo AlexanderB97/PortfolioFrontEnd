@@ -1,0 +1,409 @@
+.cont1{
+    width: 100%;
+    height: 5rem;
+    background: rgb(42, 30, 54);
+  
+    
+   
+}
+.ArgPI{
+    width: 40px;
+    height: 40px;
+    margin-top: 1em;
+    margin-left: 1em;
+    float: left;
+}
+.h4AP{
+    color: white;
+    float: left;
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+}
+.button {
+     background-color: transparent;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 1px solid white;
+    float: right;
+    transition: all 0.5s ease;
+    margin-top: 1.3em;
+    margin-right: 1em;
+    color: white;
+
+
+
+  }
+  .button:hover.button{
+    border: 1px solid #09bbe7;
+    box-shadow: 0 0 15px #09bbe7;
+    transition: all 0.5s ease;
+    color: #09bbe7;
+    
+  }
+  .imgen{
+    width: 25px;
+    height: 25px;
+    margin-top: 1.5em;
+    margin-right: 1em;
+    float: right;
+  }
+  .imgen:hover.imgen{
+    cursor: pointer;
+    width: 27px;
+    height: 27px;
+  } 
+
+  #contenedor1{
+    width: 100%;
+   height: auto;
+  background: rgb(42, 30, 54);
+  color: white;
+  border-radius: 20px;
+  margin-top: 0.5em;
+}
+#container{
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-blanco-gris-brillante-lineas-onduladas_1017-25101.jpg?w=2000");
+    background-repeat: no-repeat;
+    
+}
+
+#Perfil1{
+    position: absolute;
+    bottom: 5em; 
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-left: 1em;
+    float: left;
+    background-image: url(https://cencil.com.ar/wp-content/uploads/2020/08/cropped-Sin-foto-de-perfil-en-Facebook.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+#NyA{
+    width: auto;
+    margin-top: 8em;
+    margin-left: 2em;
+
+    
+}
+.Titulo{
+    height:auto;
+    position: relative;
+   width: 60%;
+   bottom: 10em;
+   margin-left: 15em;
+   word-break: break-all;
+   background: rgb(65, 44, 87);
+   border-radius: 20px;
+  
+  
+}
+.ImagenPerfil1{
+    width: 190px;
+    height: 190px;
+    border-radius: 95px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 0.3em;
+    
+}
+.bannerImag{
+    width: 100%;
+    height: 100%;
+   background-repeat: no-repeat;
+   background-position: center;
+   
+}
+.h1{
+    margin-left: 2em;
+    
+}
+.strong{
+    margin-left: 2.5em;
+}
+ 
+.contenedor2{
+    width: 100%;
+    height: auto;
+    background: rgb(42, 30, 54);
+    word-break: break-all;
+    color: white;
+    border-radius: 20px;
+    margin-top: 0.5em;
+}
+.h1Ex{
+    margin-left: 2em;
+}
+.logoE{
+    width: 10%;
+    height:7rem;
+    border-radius: 30px;
+    background-image: url(https://media.istockphoto.com/id/1175387759/es/vector/icono-de-la-c%C3%A1mara.jpg?s=170667a&w=0&k=20&c=WG4Kwo02cRSS77kN14ZN91Z9--4Qr7oUaWYi7wukHjA=);
+     background-size:cover;
+     background-repeat: no-repeat;
+     margin-left: 4em;
+     bottom: 1em;
+     
+}
+.descripsionEX{
+    width: 70%;
+    height: auto;
+    word-break: break-all;
+    position: relative;
+    left: 12em;
+   bottom: 6.5em;
+   background: rgb(65, 44, 87);
+   border-radius: 20px;
+   
+   
+   
+
+}
+.imagenLEx{
+    width: 100%;
+    height:7rem;
+    border-radius: 27px;
+     background-size:cover;
+     background-repeat: no-repeat;
+     
+}
+.contenedor3{
+    width: 100%;
+    height: auto;
+    background: rgb(42, 30, 54);
+    word-break: break-all;
+    word-wrap: break-word;
+    color: white;
+    border-radius: 20px;
+}
+
+.h1Ed{
+    margin-left: 2em;
+}
+.logoEd{
+    width: 10%;
+    height:7rem;
+    border-radius: 30px;
+    background-image: url(https://media.istockphoto.com/id/1175387759/es/vector/icono-de-la-c%C3%A1mara.jpg?s=170667a&w=0&k=20&c=WG4Kwo02cRSS77kN14ZN91Z9--4Qr7oUaWYi7wukHjA=);
+     background-size:cover;
+     background-repeat: no-repeat;
+     margin-left: 4em;
+     bottom: 1em;
+     
+}
+.descripsionEd{
+    width: 70%;
+    height: auto;
+    word-break: break-all;
+    position: relative;
+    left: 12em;
+   bottom: 7.5em;
+   background: rgb(65, 44, 87);
+   border-radius: 20px;
+   
+
+}
+.imagenLEd{
+    width: 100%;
+    height:7rem;
+    border-radius: 27px;
+     background-size:cover;
+     background-repeat: no-repeat;
+     
+}
+.NED{
+    margin-left: 1em;
+}
+.contenedor7{
+    width: 100%;
+    height: auto;
+    background: rgb(42,30,54);
+    word-break: break-all;
+    word-wrap: break-word;
+    color: white;
+    border-radius: 20px;
+}
+
+.h1Py{
+    margin-left: 2em;
+}
+
+.descripsionPy{
+    width: 70%;
+    height: auto;
+    word-break: break-all;
+    position: relative;
+    left: 5em;
+   bottom: 0.5em;
+   background: rgb(65, 44, 87);
+   border-radius: 20px;
+   
+
+}
+
+.contenedor4{
+    width: 49%;
+    height: auto;
+    background: rgb(42, 30, 54);
+    word-break: break-all;
+    color: white;
+    border-radius: 20px;
+    margin-top: 0.5em;
+    float: left;
+}
+
+.contenedor5{
+    width: 49%;
+    height: auto;
+    background: rgb(42, 30, 54);
+    word-break: break-all;
+    color: white;
+    border-radius: 20px;
+    margin-top: 0.5em;
+    float: right;
+  
+
+}
+.h1Sk{
+    margin-left: 2em;
+}
+.Cont_barr{
+    width: 70%;
+    height: auto;
+    background: rgb(65, 44, 87);
+    margin-left: 5em;
+    margin-bottom: 1em;
+    border-radius: 10px;
+
+}
+.barra{
+    margin-left: 1em;
+    margin-bottom: 1em;
+    
+}
+.linea_Progr{
+    height: 15px;
+    width: 90%;
+    background: #f8f6f6;
+    border-radius: 5px ;
+    border: 1px solid black;
+    }
+    .prog{
+        height: 13px;
+        border: 1px solid rgb(250, 246, 246);
+        background: #6665ee;
+        border-radius: 5px ;
+     
+        
+    }
+    .contEtiqueta{
+     width: 35px;
+     height: 20px;
+     border-radius: 5px;
+     border: 1px solid black;
+     background: #f0f0f0;
+     color: black;
+     text-align: center;
+     font-size: x-small;
+     position: relative;
+     bottom: 3.3em;
+     left: 91%;
+    }      
+       
+    .dropdawnPerfil{
+        width: 70px;
+        height: 70px;
+        border-radius: 35px;
+        background-image: url(https://cencil.com.ar/wp-content/uploads/2020/08/cropped-Sin-foto-de-perfil-en-Facebook.jpg);
+       background-position: center;
+        background-size: cover;
+    }
+
+    #contDrpdw{
+        margin-left: 64em;
+    }
+    #registro{
+        width: 100px;
+        height: 100px;
+        background: #09bbe7;
+        position: absolute;
+       
+    }
+    #editarFoto{
+        background: white;
+        background-image: url(https://www.clipartmax.com/png/middle/226-2265480_camara-icon.png);
+        width: 40px;
+        height: 40px;
+        border-radius: 20px;
+       margin-left: 10em;
+       bottom: 2em;
+        border: 1px solid white;
+        background-position: center;
+        background-size:39px; 
+        background-repeat: no-repeat;
+        
+
+        position: absolute;
+        cursor: pointer;
+    }
+    #botonEbanner{
+        position: absolute;
+        margin-left: 56em;
+        margin-top: 21em;
+    }
+    #dropdownMenuButton1{
+        
+       
+        margin-left:41em;
+        
+        border-radius: 20px;
+    }
+    #botonEliminar{
+        position: absolute;
+        margin-left:58.1em;
+        top: 35.2em;
+    }
+    #EditarNombre{
+        width: 25px;
+        height: 25px;
+        border-radius: 12.5px;
+        position: absolute;
+        background-image: url(https://www.freeiconspng.com/thumbs/edit-icon-png/edit-editor-pen-pencil-write-icon--4.png);
+        background-size: 15px;
+        background-repeat: no-repeat;
+        background-position: center;
+        margin-left: 10em;
+       top:30em
+    }
+    .imagTituloDescripcion{
+      margin-left: 1.5em;
+      margin-top: 0.5em;
+      position: absolute;
+    }
+    .iconDescripcion{
+        margin-bottom: 0.3em;
+    }
+    #editarEx{
+        margin-left: 21em;
+       
+    }
+    #eliminarEx{
+        margin-left: 21em;
+        margin-top: 1em;
+        
+
+    }
+    #añadirEx{
+       position: absolute;
+       top: 57em;
+       margin-right: 20em;
+    }
+    #BoxdeEdition{
+        width: 300px;
+        margin-left: 3em;
+        
+
+    }

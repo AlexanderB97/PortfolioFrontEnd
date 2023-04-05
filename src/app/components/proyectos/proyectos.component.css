@@ -1,0 +1,26 @@
+.contenedor7{
+    width: 100%;
+    height: auto;
+    background: rgb(42,30,54);
+    word-break: break-all;
+    word-wrap: break-word;
+    color: white;
+    border-radius: 20px;
+}
+
+.h1Py{
+    margin-left: 2em;
+}
+
+.descripsionPy{
+    width: 70%;
+    height: auto;
+    word-break: break-all;
+    position: relative;
+    left: 5em;
+   bottom: 0.5em;
+   background: rgb(65, 44, 87);
+   border-radius: 20px;
+   
+
+}

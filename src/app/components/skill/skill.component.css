@@ -1,0 +1,70 @@
+
+.contenedor4{
+    width: 49%;
+    height: auto;
+    background: rgb(42, 30, 54);
+    word-break: break-all;
+    color: white;
+    border-radius: 20px;
+    margin-top: 0.5em;
+    float: left;
+}
+
+.contenedor5{
+    width: 49%;
+    height: auto;
+    background: rgb(42, 30, 54);
+    word-break: break-all;
+    color: white;
+    border-radius: 20px;
+    margin-top: 0.5em;
+    float: right;
+  
+
+}
+.h1Sk{
+    margin-left: 2em;
+}
+.Cont_barr{
+    width: 70%;
+    height: auto;
+    background: rgb(65, 44, 87);
+    margin-left: 5em;
+    margin-bottom: 1em;
+    border-radius: 10px;
+
+}
+.barra{
+    margin-left: 1em;
+    margin-bottom: 1em;
+    
+}
+.linea_Progr{
+    height: 15px;
+    width: 90%;
+    background: #f0f0f0;
+    border-radius: 5px ;
+    border: 1px solid black;
+    }
+    .prog{
+        height: 13px;
+        border: 1px solid rgb(250, 246, 246);
+        background: #6665ee;
+        border-radius: 5px ;
+     
+        
+    }
+    .contEtiqueta{
+     width: 35px;
+     height: 20px;
+     border-radius: 5px;
+     border: 1px solid black;
+     background: #f0f0f0;
+     color: black;
+     text-align: center;
+     font-size: x-small;
+     position: relative;
+     bottom: 3.3em;
+     left: 91%;
+    }      
+       

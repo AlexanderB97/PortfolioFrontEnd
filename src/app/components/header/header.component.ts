@@ -6,9 +6,11 @@ import { Component, Input,Output,OnInit} from '@angular/core';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent {
-title = "My Task List";
-arrayAnime:any[] = ["alex","cele","aln"];
+
+
+
 
 }
+
 
 
